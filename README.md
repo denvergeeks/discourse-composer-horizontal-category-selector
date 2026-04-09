@@ -1,4 +1,16 @@
-[This is the CATEGORY Selector Component, but there is also the TAG Selector Component you can find at https://github.com/denvergeeks/discourse-composer-horizontal-tag-selector]
+## Jen's Discourse Horizonal Selector Components
+
+[This is the COMPOSER CATEGORY Horizonal Selector Component]
+
+https://github.com/denvergeeks/discourse-composer-horizontal-category-selector
+
+https://github.com/denvergeeks/discourse-composer-horizontal-tag-selector
+
+https://github.com/denvergeeks/discourse-topic-list-horizontal-category-selector
+
+https://github.com/denvergeeks/discourse-topic-list-horizontal-tag-selector
+
+---
 
 The video here below shows the TAG Selector Component... but this Component provides the same behavior, but for the Categories selector in the Composer)
 
