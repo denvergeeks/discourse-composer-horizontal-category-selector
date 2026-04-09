@@ -1,6 +1,8 @@
-## Jen's Discourse Horizonal Selector Components
+# Discourse Composer Horizontal Category Selector
+A part of...
+## Jen's Discourse Horizonal Selector Components Suite
 
-[This is the COMPOSER CATEGORY Horizonal Selector Component]
+[This is the COMPOSER CATEGORIES Horizonal Selector Component]
 
 https://github.com/denvergeeks/discourse-composer-horizontal-category-selector
 
